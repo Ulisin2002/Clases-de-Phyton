@@ -1,3 +1,4 @@
+#Se ha añadido un gatito coom comentario
 def salir():
     print("Gracias por usar nuestro programa")
 def registrar_trabajador():
